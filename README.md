@@ -1,5 +1,3 @@
-# MMAI 894 Deep Learning Final Project - Team Bathurst
-
 ## Table of Contents
 - [Scope](#scope)
 - [Approach](#approach)
@@ -15,5 +13,4 @@ Because image classification involves vision, Convolutional Neural Networks (CNN
 ## Deep Learning Architectures Explored
 - Custom CNN
 - Residual Neural Network (ResNet)
-- VGG16
-- Vision Transformer (ViT)
+- DenseNet
